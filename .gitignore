@@ -1,0 +1,6 @@
+# Generated Source files
+node_modules
+build
+
+# Common IDE files
+.vs
